@@ -1,0 +1,20 @@
+{
+	"name": "@roger.b/types",
+	"version": "0.0.1",
+	"description": "Utils ts types",
+	"main": "src/index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "roger bentcha",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Carter2307/types.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Carter2307/types/issues"
+	},
+	"homepage": "https://github.com/Carter2307/types#readme"
+}
